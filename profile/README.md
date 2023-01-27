@@ -4,31 +4,31 @@
 
 ## Key features
 
-- **Various protocols**
+- **Various protocols**  
 gRPC, gRPC-Web, HTTP/1.x, and HTTP/2.0 protocols
 
-- **Playground**
+- **Playground**  
 Test your mock configuration in the playground. Review requests and responses in one single place
 
-- **Data generators**
+- **Data generators**  
 Inbuilt meaningful fake data generator. You can generate an entire response or just a few fields
 
-- **Channel and method credentials**
+- **Channel and method credentials**  
 Basic Auth, Client Certificate, JWT Bearer, or IP white list
 
-- **Advanced request matching**
+- **Advanced request matching**  
 Match an entire request against a file or match individual fields of any type like scalar, array, and object
 
-- **Dynamic response templating**
+- **Dynamic response templating**  
 You can use request data, data generators, or external files to template an entire response or individual fields
 
-- **Stateful scenarios**
+- **Stateful scenarios**  
 Mock.qa offers a state machine for such scenarios
 
-- **Scripting language**
+- **Scripting language**  
 Inbuilt scripting language that supports if-else expressions, math functions, and more
 
-- **Data protection**
+- **Data protection**  
 Built-in protection of sensitive data powered by RSA-2048 encryption
 
 [![grpc-mock](https://user-images.githubusercontent.com/6689884/215168760-9717e755-3699-44f2-81ab-6b102873c81c.png)](https://mock.qa/)
