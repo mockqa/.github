@@ -32,3 +32,5 @@ Inbuilt scripting language that supports if-else expressions, math functions, an
 Built-in protection of sensitive data powered by RSA-2048 encryption
 
 [![grpc-mock](https://user-images.githubusercontent.com/6689884/215168760-9717e755-3699-44f2-81ab-6b102873c81c.png)](https://mock.qa/)
+
+[![Backup Status](https://cloudback.it/badge/mockqa/.github)](https://cloudback.it)
